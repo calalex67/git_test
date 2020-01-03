@@ -1,1 +1,1 @@
-This is Alejandro's first git project!
+This is Alex's first git project!
